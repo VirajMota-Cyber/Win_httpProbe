@@ -6,11 +6,13 @@ I created a custom PowerShell script designed to evade antivirus detection on Wi
 
 How to Use:-
 1. Open Powershell Terminal
-2. Run below command to allow execution of script over terminal
-   powershell -ep bypass
-3.Run the script
-   ./Win_httpProbe
 
+2. Run below command to allow execution of script over terminal
+>powershell -ep bypass
+
+3.Run the script
+ >./Win_httpProbe
+.
 Best regards,
 Viraj Mota
 https://in.linkedin.com/in/viraj-mota
