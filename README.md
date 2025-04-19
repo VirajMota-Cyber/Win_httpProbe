@@ -22,6 +22,8 @@ powershell -ExecutionPolicy Bypass -File .\VProbe.ps1
 - Target(s): `google.com, 8.8.8.8`
 - Port(s): `80,443`
 
+Output: The scan results will be saved to ScanResults.csv
+
 POC:
 ![POC](https://github.com/user-attachments/assets/e91be192-c086-4861-bb2e-4119b73bc8f7)
 
