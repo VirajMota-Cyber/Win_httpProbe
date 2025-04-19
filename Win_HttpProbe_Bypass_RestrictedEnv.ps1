@@ -14,7 +14,7 @@ function ports_scan {
     # Capture start time
     $start = Get-Date
     Write-Host "Port_Scan initiated" -ForegroundColor White
-    Write-Host "Starting V_PS script at: $start" -ForegroundColor Yellow
+    Write-Host "Starting V_Probe script at: $start" -ForegroundColor Yellow
     Write-Host "`n-------------------------------------`n"
 
     Write-Host "[?] Checking for System Info - Summary..`n" -ForegroundColor Black -BackgroundColor White
@@ -51,7 +51,7 @@ function Test-Port {
 }
 
 # User input for targets and ports
-$targetInput = Read-Host "Enter target(s) separated by comma (e.g., google.com,localhost)"
+$targetInput = Read-Host "Enter target(s) separated by comma (e.g., google.com,8.8.8.8)"
 $portInput = Read-Host "Enter port(s) separated by comma (e.g., 80,443)"
 
 $targets = $targetInput -split "," | ForEach-Object { $_.Trim() }
