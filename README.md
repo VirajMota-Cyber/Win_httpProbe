@@ -18,7 +18,7 @@ powershell -ExecutionPolicy Bypass -File .\VProbe.ps1
 1.Run the script
  >./Win_httpProbe
 
-2. You'll be prompted to enter:
+2.You'll be prompted to enter:
  >.Target(s): `google.com, 8.8.8.8`
 
  >.Port(s): `80,443`
