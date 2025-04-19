@@ -44,4 +44,4 @@ See the [NOTICE](NOTICE) file for attribution.
 
 ## 👤 Author
 Created by **Viraj Mota**  
-[GitHub](https://github.com/VirajRecon) • [LinkedIn](https://linkedin.com/in/virajmota)
+[GitHub](https://github.com/VirajRecon) • [LinkedIn](https://www.linkedin.com/in/viraj-mota/)
