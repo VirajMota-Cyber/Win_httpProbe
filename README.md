@@ -8,7 +8,7 @@ VProbe is a lightweight, PowerShell-based TCP and HTTP port scanner designed to 
 - ⚡ Instant results with color-coded output
 A custom Powerful Window based script to scan for live IPs and detect open ports, similar to the Linux-based HTTProbe tool on GitHub.
 
-I created a custom PowerShell script designed to evade antivirus detection on Windows systems while performing tasks such as scanning live IPs, detecting open ports, and documenting the scan results in an Excel sheet.
+I created a custom PowerShell script based on my current office task designed to evade antivirus detection on Windows systems while performing tasks such as scanning live IPs, detecting open ports, and documenting the scan results in an Excel sheet.
 
 ## ⚙️ Usage
 ```powershell
